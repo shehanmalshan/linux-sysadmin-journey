@@ -4,7 +4,7 @@
 
 ---
 
-# 📖 Overview
+#  Overview
 
 The Linux filesystem organizes all files and directories into a single hierarchical tree that starts from the **root directory (`/`)**.
 
@@ -14,7 +14,7 @@ Understanding the Linux filesystem is essential for system administration, shell
 
 ---
 
-# 🎯 Learning Objectives
+#  Learning Objectives
 
 After completing this module, you should be able to:
 
@@ -27,7 +27,7 @@ After completing this module, you should be able to:
 
 ---
 
-# 📚 Topics Covered
+#  Topics Covered
 
 ## 1. Linux Filesystem Hierarchy
 
@@ -271,7 +271,7 @@ whereis bash
 
 ---
 
-# 🛠 Commands Practiced
+#  Commands Practiced
 
 ```bash
 pwd
@@ -288,7 +288,7 @@ df -h
 
 ---
 
-# 📌 Key Concepts
+#  Key Concepts
 
 - Linux uses a tree-like filesystem.
 - Everything starts from the root directory (`/`).
@@ -301,7 +301,7 @@ df -h
 
 ---
 
-# 💻 Practice Exercises
+#  Practice Exercises
 
 ### Exercise 1
 
@@ -353,9 +353,9 @@ find /home -name notes.txt
 
 ---
 
-# 📚 Summary
+#  Summary
 
-In this module, you learned:
+In this module, I learned:
 
 - Linux filesystem hierarchy
 - Root directory
@@ -369,18 +369,5 @@ In this module, you learned:
 - Essential filesystem commands
 
 ---
-
-# 📖 Next Module
-
-➡️ **Module 4: File Permissions**
-
-Topics include:
-
-- File permissions
-- Ownership
-- `chmod`
-- `chown`
-- `chgrp`
-- Numeric permissions
-- Symbolic permissions
+ons
 - Special permissions (SUID, SGID, Sticky Bit)
