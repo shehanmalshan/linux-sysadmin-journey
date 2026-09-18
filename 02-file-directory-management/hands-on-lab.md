@@ -176,7 +176,7 @@ ls -l /tmp/company/test
 
 ## Hands-on Evidence
 
-Terminal screenshots from this lab are stored in the `screenshots` directory.
+![File and Directory Management Lab](screenshots/file-directory-management-lab.png)
 
 Example directory:
 
