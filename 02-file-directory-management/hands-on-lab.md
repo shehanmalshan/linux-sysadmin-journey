@@ -176,7 +176,7 @@ ls -l /tmp/company/test
 
 ## Hands-on Evidence
 
-![File and Directory Management Lab](screenshots/file-directory-management-lab.png)
+![File and Directory Management Lab](screenshots/file-directory-management-lab.png.png)
 
 Example directory:
 
