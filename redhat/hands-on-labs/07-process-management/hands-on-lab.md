@@ -52,26 +52,18 @@ kill -TERM "$pid"
 ps -p "$pid"
 ```
 
-### 4. Background Execution with nohup
-```bash
-nohup sleep 120 > nohup.log 2>&1 &
-```
-
-## Screenshots
-
-### Process Monitoring & Priority Management
-
-![Process Management Lab](./screenshots/process-management-lab.png)
-
-## Key Learnings
-- Process monitoring using `ps`, `top`, and `pgrep`.
-- Foreground and background job management.
-- CPU priority control using `nice` and `renice`.
-- Safe process termination using signals.
-- Background execution using `nohup`.
 
 ## Screenshots
 
 ### Process Monitoring & Priority Management
 
 ![Linux Process Management Lab](./screenshots/evd1.png)
+
+
+
+## Key Learnings
+- Process monitoring using `ps`, `top`, and `pgrep`.
+- Foreground and background job management.
+- CPU priority control using `nice` and `renice`.
+- Safe process termination using signals.
+
